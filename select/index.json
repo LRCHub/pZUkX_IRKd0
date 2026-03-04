@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Just woo!!",
+  "base_artist": "平安名すみれ (CV.ペイトン尚未)",
+  "createdAt": "2026-03-04T14:45:33.254459Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just woo!!",
+      "artist": "Sumire Heanna (CV: Naomi Payton)",
+      "has_synced": false,
+      "path": "select/01_Just_woo!!_Sumire_Heanna_(CV__Naomi_Payton).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Just woo!!",
+      "artist": "平安名すみれ(CV.ペイトン尚未)",
+      "has_synced": false,
+      "path": "select/pl_01_Just_woo!!_平安名すみれ(CV.ペイトン尚未).txt"
+    }
+  ]
+}
